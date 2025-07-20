@@ -26,6 +26,7 @@ Develop a high-accuracy machine learning model to predict the three-state second
   - 1D Convolution Layer
   - Dropout Layer
 - **Output**: Per-residue prediction of secondary structure (Q3 and Q8)
+- **Dataset Used**: CB513 dataset found online. Also provided in the repository.
 
 ---
 
