@@ -41,9 +41,9 @@ Develop a high-accuracy machine learning model to predict the three-state second
 
 - Best model is saved as **best_protein_structure_model.pth**
 - **Test Results:**
-  <img width="295" height="94" alt="image" src="https://github.com/user-attachments/assets/6d9a1af9-716e-4834-9f80-38d999107128" />
+<img width="295" height="94" alt="image" src="https://github.com/user-attachments/assets/6d9a1af9-716e-4834-9f80-38d999107128" />
 - **DSSP3 Classification Report:**
-  <img width="549" height="249" alt="image" src="https://github.com/user-attachments/assets/3781143e-ed15-47f6-a878-bacf780ad46b" />
+<img width="549" height="249" alt="image" src="https://github.com/user-attachments/assets/3781143e-ed15-47f6-a878-bacf780ad46b" />
 - **DSSP8 Classification Report:**
-- <img width="524" height="373" alt="image" src="https://github.com/user-attachments/assets/a9bfbcbc-ca0e-45db-8e88-498ae9756fad" />
+<img width="524" height="373" alt="image" src="https://github.com/user-attachments/assets/a9bfbcbc-ca0e-45db-8e88-498ae9756fad" />
 
